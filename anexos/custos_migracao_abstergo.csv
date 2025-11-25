@@ -1,0 +1,4 @@
+Servico,Custo antes,Custo depois
+S3 Standard IA,300,120
+Lambda,250,40
+Aurora Serverless v2,1200,450
